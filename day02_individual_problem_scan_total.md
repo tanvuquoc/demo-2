@@ -403,19 +403,6 @@ AI không được tự bịa deadline, yêu cầu bài nộp, quy định lab h
 
 ---
 
-# 04 — Lý do chọn Problem #1 để đưa ra bàn luận với nhóm
-
-Mình đề xuất chọn **Problem #1 — Học viên gửi lỗi code nhưng thiếu context** để đưa ra bàn luận với nhóm.
-
-Lý do:
-
-1. **Pain cụ thể nhất:** tình huống rất rõ — học viên gặp lỗi, gửi thiếu thông tin, TA phải hỏi lại.
-2. **Actor rõ:** học viên và TA/Lab Coach.
-3. **Bottleneck rõ:** thiếu context ở câu hỏi ban đầu.
-4. **Metric dễ đo:** số vòng hỏi lại, tỷ lệ câu hỏi đủ context, thời gian đến khi TA xử lý được.
-5. **AI can thiệp hợp lý:** AI không thay TA hoàn toàn, chỉ hỗ trợ intake, hỏi lại, phân loại và chuyển TA khi cần.
-6. **Rủi ro kiểm soát được:** có human boundary và fallback rõ ràng.
-7. **Có thể mở rộng từ #1 sang #2 và #3:** sau khi câu hỏi đủ context, AI có thể phân loại câu hỏi; nếu cần tài liệu, AI có thể tra cứu nguồn chính thức.
 
 Một hướng hội tụ cho nhóm có thể là:
 
